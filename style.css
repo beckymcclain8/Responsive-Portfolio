@@ -265,3 +265,52 @@ input[type=submit]:hover {
 
 }
 
+@media screen and (max-width: 768px) {
+
+    #top, #content, #sidebar, #portfolio, .container {
+        width: 100%;
+        max-width: 730px;
+    }
+
+    #sidebar, #content, #name, #links, #footer, #portfolio, .container, #top {
+        margin: 20px 12px 20px 12px;
+    }
+
+    #top {
+        height: 100px;
+        margin: 0px;
+    }
+
+    #responsive-image {
+        width: 75%;
+        max-width: 350px;
+        height: auto;
+        padding: 10px;
+
+    }
+
+    #footer {
+        position: static;
+    }
+
+    h3 {
+        text-align: left;
+    }
+
+    .port-image {
+        bottom: 2px;
+        width: 40%;
+        height: auto;
+        padding: 10px;
+        margin: 0;
+        float: left;
+    }
+
+    .Harry {
+        bottom: 2px;
+        margin:20px 0px 20px 10px;
+        padding: 10px 10px;
+        text-align: center;
+        width: 254px;
+    }
+}
