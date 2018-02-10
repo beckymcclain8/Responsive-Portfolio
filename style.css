@@ -16,9 +16,6 @@
 }
 
 .background {
-    
-    /*fix this*/
-    
     width: 959px;
     height: auto;
     background-image: url(../Basic-Portfolio/assets/images/dust_scratches.png)
@@ -50,6 +47,7 @@
     float: left;
     margin-right: 10px;
 }
+/*I can't figure out how to float the images in the portfolio to be next to each other*/
 
 .port-image {
     position: relative;
