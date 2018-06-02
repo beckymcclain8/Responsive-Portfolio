@@ -111,6 +111,20 @@ h3 {
     border-bottom: 3px solid #e7e5e5;
 }
 
+.contact {
+    color: #4aaaa5;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.info {
+    font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: #777777;
+    font-size: large;
+    font-weight: inherit;
+}
+
 #sidebar {
     background:#ffffff;
     border: #dddddd;
