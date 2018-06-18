@@ -212,7 +212,8 @@ input[type=submit]:hover {
     position: absolute;
     bottom: 10px;
     padding: 5px;
-    background-color:  #4aaaa5;
+    background-color:  #434444;
+    /* background-color:  #4aaaa5; */
     color: white;
     width: 40%;
     text-align: center;
