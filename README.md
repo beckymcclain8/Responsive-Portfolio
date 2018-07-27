@@ -4,7 +4,9 @@ I was a part of the January-July cohort of the University of Arizona Coding Boot
 
 Please take a look and let me know if you have questions!
 
-You can also find me on LinkedIn at https://www.linkedin.com/in/becky-mcclain-a22b73b5/.
+You can view my profile at https://beckymcclain8.github.io/Responsive-Portfolio/.
+
+You can find me on LinkedIn at https://www.linkedin.com/in/becky-mcclain-a22b73b5/.
 
 You can email me at beckymcclain8@gmail.com
 
